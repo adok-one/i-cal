@@ -1,0 +1,13 @@
+{
+    "name": "adok/i-cal",
+    "description": "Read and write event to icloud calendar",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksandr Chernov",
+            "email": "boss@beone.software"
+        }
+    ],
+    "require": {}
+}
